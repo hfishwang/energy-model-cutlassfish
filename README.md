@@ -1,1 +1,1 @@
-# energy-model-cutlassfish
+# Data files and R code for paper
